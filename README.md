@@ -67,7 +67,7 @@ I create and sell modern digital products, including **developer portfolio templ
 ##  Skills
 
 ```text
-Frontend Development     █████████░
+Frontend Development     █████████
 JavaScript               █████████░
 React                    ████░░░░░░
 HTML & CSS               █████████░
