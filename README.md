@@ -10,11 +10,11 @@ Currently expanding my knowledge in **Web Development, Software Engineering and 
 
 ---
 
-## 🛒 My Digital Store
+##  My Digital Store
 
 I create and sell modern digital products, including **developer portfolio templates and web resources**.
 
-### 🛍️ RolShop
+###  RolShop
 
 [![Payhip](https://img.shields.io/badge/Visit_RolShop-0070F3?style=for-the-badge&logo=shopify&logoColor=white)](https://payhip.com/RolShop)
 
@@ -22,7 +22,7 @@ I create and sell modern digital products, including **developer portfolio templ
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 💻 Focused on **Web Development**
 - 🤖 Building with AI, AI Agents.
@@ -36,7 +36,7 @@ I create and sell modern digital products, including **developer portfolio templ
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -64,7 +64,7 @@ I create and sell modern digital products, including **developer portfolio templ
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 ```text
 Frontend Development     █████████░
@@ -80,7 +80,7 @@ UI / UX                  ████████░░
 
 ---
 
-## 💼 What I Build
+##  What I Build
 
 ```javascript
 const rolling = {
@@ -119,7 +119,7 @@ const rolling = {
 ```
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -143,7 +143,7 @@ const rolling = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img
@@ -158,7 +158,7 @@ const rolling = {
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rolling566&theme=tokyonight&hide_border=true" />
@@ -166,7 +166,7 @@ const rolling = {
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rolling566&theme=tokyo-night&hide_border=true" />
