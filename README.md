@@ -1,18 +1,31 @@
-# 👋 Hey, I'm Rolling
+# Supp, I'm Rolling, im a future software developer
 
-### Web Developer · JavaScript · React · Node.js
+### Web Developer · JavaScript · React · Node.js 
 
-I'm a developer focused on building modern, functional and visually polished web experiences.
+I'm a developer focused on building modern, functional, visually polished web experiences and working with AI.
 
-I enjoy turning ideas into real projects — from frontend interfaces to full-stack applications, authentication systems, APIs and database integrations.
+I enjoy turning ideas into real projects, from frontend interfaces to full-stack applications, authentication systems, APIs and database integrations with AI agents and workflows, adapting to AI evolution.
 
 Currently expanding my knowledge in **Web Development, Software Engineering and modern JavaScript technologies**.
+
+---
+
+## 🛒 My Digital Store
+
+I create and sell modern digital products, including **developer portfolio templates and web resources**.
+
+### 🛍️ RolShop
+
+[![Payhip](https://img.shields.io/badge/Visit_RolShop-0070F3?style=for-the-badge&logo=shopify&logoColor=white)](https://payhip.com/RolShop)
+
+> Modern digital products built for developers, creators and the web.
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Focused on **Web Development**
+- 🤖 Building with AI, AI Agents.
 - ⚛️ Building projects with **React & Vite**
 - 🟢 Developing backends with **Node.js & Express**
 - 🗄️ Working with **MySQL databases**
@@ -32,7 +45,6 @@ Currently expanding my knowledge in **Web Development, Software Engineering and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
 
@@ -46,8 +58,9 @@ Currently expanding my knowledge in **Web Development, Software Engineering and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
+[![ChatGPT](https://simpleicons.org)](https://chatgpt.com)
+[![Claude](https://wikimedia.org)](https://claude.ai)
 
 ---
 
@@ -56,12 +69,12 @@ Currently expanding my knowledge in **Web Development, Software Engineering and 
 ```text
 Frontend Development     █████████░
 JavaScript               █████████░
-React                    ████████░░
+React                    ████░░░░░░
 HTML & CSS               █████████░
-Node.js / Express        ████████░░
-MySQL                    ███████░░░
-REST APIs                ████████░░
-Git & GitHub             ████████░░
+Node.js / Express        ██████░░░░
+MySQL                    █░░░░░░░░░
+REST APIs                ██████░░░░
+Git & GitHub             ██░░░░░░░░
 UI / UX                  ████████░░
 ```
 
@@ -71,7 +84,7 @@ UI / UX                  ████████░░
 
 ```javascript
 const rolling = {
-    focus: ["Web Development", "Full-Stack Development", "UI/UX"],
+    focus: ["Web Development", "Full-Stack Development", "UI/UX", AI agents, AI],
 
     frontend: [
         "JavaScript",
@@ -79,7 +92,6 @@ const rolling = {
         "Vite",
         "HTML",
         "CSS",
-        "Tailwind CSS"
     ],
 
     backend: [
@@ -96,47 +108,31 @@ const rolling = {
         "Git",
         "GitHub",
         "VS Code",
+        "MYSQL workbench",
         "Postman"
     ],
 
-    currentlyLearning: "Building better full-stack applications",
+    currentlyLearning: "Building better full-stack applications with AI agents",
 
     goal: "Turn ideas into real digital products."
 };
 ```
-
----
-
-## 🛒 My Digital Store
-
-I create and sell modern digital products, including **developer portfolio templates and web resources**.
-
-### 🛍️ RolShop
-
-[![Payhip](https://img.shields.io/badge/Visit_RolShop-0070F3?style=for-the-badge&logo=shopify&logoColor=white)](https://payhip.com/RolShop)
-
-> Modern digital products built for developers, creators and the web.
-
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/rolling_00/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="YOUR_X_URL">
+<a href="https://x.com/RolinAntnio1">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@Rolling_56">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://payhip.com/RolShop">
@@ -165,7 +161,7 @@ I create and sell modern digital products, including **developer portfolio templ
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Rolling566&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -173,7 +169,7 @@ I create and sell modern digital products, including **developer portfolio templ
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rolling566&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -184,6 +180,6 @@ I create and sell modern digital products, including **developer portfolio templ
 
 Thanks for visiting my profile.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Rolling566&style=for-the-badge)
 
 </div>
