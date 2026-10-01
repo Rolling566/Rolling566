@@ -123,19 +123,19 @@ const rolling = {
 
 <p align="left">
 
-<a href="https://www.instagram.com/rolling_00/">
+<a href="https://www.instagram.com/rolling_00/" target:"_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://x.com/RolinAntnio1">
+<a href="https://x.com/RolinAntnio1" target:"_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/@Rolling_56">
+<a href="https://www.youtube.com/@Rolling_56" target:"_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="https://payhip.com/RolShop">
+<a href="https://payhip.com/RolShop" target:"_blank">
   <img src="https://img.shields.io/badge/RolShop-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
