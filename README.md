@@ -1,6 +1,6 @@
 # Supp, I'm Rolling, im a future software developer
 
-[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rolling566&layout=compact&theme=github_dark)](https://github.com/Rolling566)
+[![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=Rolling566&layout=compact&theme=github_dark)](https://github.com/Rolling566)
 
 ### Web Developer · JavaScript · React · Node.js 
 
